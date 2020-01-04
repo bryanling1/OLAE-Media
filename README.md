@@ -78,7 +78,7 @@ olae.createMog()
 Generate Moments of Glory clips. Requires additional user input
 """
 ```
-**Note:** Some video overlay assets have not been included due to large file sizes. Issues with video masking occured with PIL and decided to use .avi files with transparency
+**Note:** Some video overlay assets have not been included due to large file sizes. Issues with video masking occured with PIL and .avi files with transparency were used instead.
 
 ## Feedback
 
