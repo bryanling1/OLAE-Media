@@ -8,13 +8,15 @@ Firebase database permissions are required.
 
 <p align="center">
     <img alt="olae-site-preview1" title="olae-site-preview1" src="https://olae.ca/images/news/1-1-2020-smPreview.png" width="100%">
-</p>
+</p> 
+
 ## Build Instructions
 1. Install [Pyrebase](https://github.com/thisbejim/Pyrebase)
 2. Install [PIL](https://pypi.org/project/Pillow/2.2.2/)
 3. Install [Moviepy](https://zulko.github.io/moviepy/install.html)
 4. Create a fbKey.json file in the main directory with Firebase service account info 
 5. `instance = Olae()` and use defined methods in the class as needed
+
 ## Usage
 Methods are written to be used in the console as some require additional user inputs.
 
