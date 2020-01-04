@@ -2,7 +2,7 @@
 
 The [Ontario League of Associated Esports (OLAE)](https://olae.ca) is a varsity League of Legends league based in Ontario Canada. 
 
-This Python class assists in the generation of social media content, as well as Firebase queries. 
+This Python class assists in the generation of [social media content](https://www.instagram.com/olae.ca/), as well as Firebase queries. 
 
 Firebase database permissions are required. 
 
